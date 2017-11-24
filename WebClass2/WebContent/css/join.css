@@ -1,0 +1,9 @@
+@CHARSET "utf-8";
+div.container{
+    	padding-top : 30px;
+    	padding-left : 30px;
+    	padding-right : 30px;
+}
+div.form-group{
+	width : 10cm;
+}
